@@ -1,15 +1,15 @@
 {
   "semantics": [
     {
-      "label": "Heading",
+      "label": "Overskrift",
       "default": "Dokumentasjonsverktøy",
-      "description": "Title for the documentation tool."
+      "description": "Tittel for dokumentasjonsverktøyet."
     },
     {
       "label": "Innhaldselement",
       "widgets": [
         {
-          "label": "Default"
+          "label": "Standard"
         }
       ],
       "entity": "Element",
@@ -19,26 +19,26 @@
       }
     },
     {
-      "label": "Localize documentation tool buttons",
+      "label": "Omsett knappar for dokumentasjonsverktøyet",
       "fields": [
         {
-          "label": "Previous button label",
-          "default": "Førre documentation step"
+          "label": "Etikett for Førre-knapp",
+          "default": "Førre dokumentasjonssteg"
         },
         {
-          "label": "Previous",
-          "default": "Previous"
+          "label": "Førre",
+          "default": "Førre"
         },
         {
-          "label": "Next button label",
-          "default": "Neste documentation step"
+          "label": "Etikett for Neste-knapp",
+          "default": "Neste dokumentasjonssteg"
         },
         {
-          "label": "Next",
-          "default": "Next"
+          "label": "Neste",
+          "default": "Neste"
         },
         {
-          "label": "Close button label",
+          "label": "Etikett for Lukk-knapp",
           "default": "Lukk"
         }
       ]
